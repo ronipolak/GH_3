@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+G:\AUTOMATION\.metadata\.plugins\org.eclipse.jdt.core
+3771336464.index
+1972432534.index
+1671692264.index
+3724704712.index
+4086432263.index
+72822167.index
